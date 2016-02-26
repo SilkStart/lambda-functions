@@ -1,0 +1,26 @@
+##############################################################
+#                                                            #
+#  SilkStart IP Black List                                   #
+#                                                            #
+##############################################################
+#                                                            #
+#  This is a list of IP Addresses included in the SilkStart  #
+#  Block list. If an IP Address of yours is currently        #
+#  blacklisted and you believe this to be in error, you can  #
+#  contact support@silkstart.com                             #
+#                                                            #
+#  You can read entries in this list as follows.             #
+#                                                            #
+#  192.1.1.0/17 # Comment block                              #
+#       |     |     |                                        #
+#       |     |    This is a comment block that describes    #
+#       |     |    the reason that this IP Address was       #
+#       |     |    blacklisted.                              #
+#       |     |                                              #
+#       |    CIDR Mask (Optional) Used to define ranges      #
+#       |                                                    #
+#     IP Address that is blocked.                            #
+#                                                            #
+##############################################################
+
+79.141.161.13       # Known hack attempt(s): /\.\./\.\./\.\./, passwd$, boot\.ini, win\.ini
